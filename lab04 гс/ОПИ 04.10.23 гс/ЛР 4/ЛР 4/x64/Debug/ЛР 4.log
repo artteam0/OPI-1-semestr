@@ -1,0 +1,33 @@
+﻿Сборка начата 09.11.2023 14:49:15.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\x64\Debug\".
+         Создание каталога "x64\Debug\ЛР 4.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\ЛР 4.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\ЛР 4.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "ЛР 4.cpp"
+         ЛР 4.cpp
+     1>C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.cpp(29,16): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+     1>C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.cpp(29,84): warning C4474: "printf" : для строки формата передано слишком много аргументов
+       C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.cpp(29,84): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\x64\Debug\ЛР 4.exe" /INCREMENTAL /ILK:"x64\Debug\ЛР 4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\x64\Debug\ЛР 4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\x64\Debug\ЛР 4.lib" /MACHINE:X64 "x64\Debug\ЛР 4.obj"
+         ЛР 4.vcxproj -> C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\x64\Debug\ЛР 4.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\ЛР 4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\ЛР 4.tlog\ЛР 4.lastbuildstate".
+     1>Сборка проекта "C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.cpp(29,16): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+         C:\Users\Lenovo\Desktop\ОПИ 04.10.23\ЛР 4\ЛР 4\ЛР 4.cpp(29,84): warning C4474: "printf" : для строки формата передано слишком много аргументов
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.60
