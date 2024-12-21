@@ -1,0 +1,23 @@
+﻿Сборка начата 26.11.2023 15:48:52.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Lenovo\Desktop\сентябрь 2023 ГС\ОПИ 27.09.23 ГС\лр3\лр3\лр3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\лр3.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\лр3.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "лр3.cpp"
+         лр3.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Desktop\сентябрь 2023 ГС\ОПИ 27.09.23 ГС\лр3\x64\Debug\лр3.exe" /INCREMENTAL /ILK:"x64\Debug\лр3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Desktop\сентябрь 2023 ГС\ОПИ 27.09.23 ГС\лр3\x64\Debug\лр3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Desktop\сентябрь 2023 ГС\ОПИ 27.09.23 ГС\лр3\x64\Debug\лр3.lib" /MACHINE:X64 "x64\Debug\лр3.obj"
+         лр3.vcxproj -> C:\Users\Lenovo\Desktop\сентябрь 2023 ГС\ОПИ 27.09.23 ГС\лр3\x64\Debug\лр3.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: C:\Users\Lenovo\Desktop\сентябрь 2023\ОПИ 20.09.23\лр3\лр3\лр3.cpp.
+       FinalizeBuildStatus:
+         Файл "x64\Debug\лр3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\лр3.tlog\лр3.lastbuildstate".
+     1>Сборка проекта "C:\Users\Lenovo\Desktop\сентябрь 2023 ГС\ОПИ 27.09.23 ГС\лр3\лр3\лр3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.13
